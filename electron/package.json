@@ -24,7 +24,7 @@
     "eslint-loader": "^1.6.2",
     "json-loader": "^0.5.4",
     "node-loader": "^0.6.0",
-    "shelljs": "^0.7.5",
+    "shelljs": "^0.8.5",
     "webpack": "^2.2.1",
     "webpack-merge": "^3.0.0"
   }
